@@ -1,4 +1,4 @@
-Last updated 2020/03/20
+Ultima Atualização 2020/03/20 (Versão em Portugues/Brasil - JCA, MP)
 
 ![Full System](https://github.com/jcl5m1/ventilator/blob/master/images/full%20system.jpg?raw=true)
 
